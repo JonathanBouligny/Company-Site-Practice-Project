@@ -22,4 +22,4 @@ Deployed at Neflify at (Link to come)
 
 ## Acknowledgments
 
-* Recreated from the template from [themeforest.net](https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434)
+* Recreated from this template from [themeforest.net](https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434)
