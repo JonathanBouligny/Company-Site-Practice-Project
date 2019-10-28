@@ -18,8 +18,8 @@ Deployed at Neflify at (Link to come)
 
 ## Authors
 
-* **Jonathan Bouligny** - *All Work* - [Jonathan Bouligny](https://github.com/JonathanBouligny)
+* **Jonathan Bouligny** - [Jonathan Bouligny](https://github.com/JonathanBouligny)
 
 ## Acknowledgments
 
-* Recreated from the template https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434
+* Recreated from the template from [themeforest.net](https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434)
