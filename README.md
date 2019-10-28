@@ -18,7 +18,7 @@ Deployed at Neflify at (Link to come)
 
 ## Authors
 
-* **Jonathan Bouligny** - *All Work* - [PurpleBooth](https://github.com/JonathanBouligny)
+* **Jonathan Bouligny** - *All Work* - [Jonathan Bouligny](https://github.com/JonathanBouligny)
 
 ## Acknowledgments
 
