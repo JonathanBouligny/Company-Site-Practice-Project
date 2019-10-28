@@ -1,0 +1,23 @@
+{
+  "name": "HTML-CSS-Practice-Site",
+  "version": "1.0.0",
+  "description": "Seeing if I can recreate a template from a site to practice html and css",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --resursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanBouligny/HTML-CSS-Practice-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanBouligny/HTML-CSS-Practice-Site/issues"
+  },
+  "homepage": "https://github.com/JonathanBouligny/HTML-CSS-Practice-Site#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
