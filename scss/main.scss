@@ -4,6 +4,59 @@
 * {
   margin: 0;
   padding: 0;
-
   box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background: $bg-color;
+  color: set-text-color($bg-color);
+}
+
+ul li {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: $primary-color;
+  padding: 0.5rem;
+
+  &-logo {
+    display: flex;
+    align-items: center;
+  }
+
+  &-links {
+    display: flex;
+  }
+}
+
+.btn {
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+
+  &-light {
+    background-color: $primary-color;
+    color: set-text-color($primary-color);
+
+    &:hover {
+      background-color: lighten($primary-color, 15%);
+    }
+  }
+}
+
+#main-content {
+  position: relative;
+
+  .main-content-img {
+    width: 100vw;
+    height: 100vh;
+  }
 }

@@ -1,0 +1,15 @@
+$max-width: 1090px;
+
+$primary-color: #3500d3;
+$medium-color: #240090;
+$dark-color: #190061;
+$bg-color: #0c0032;
+$grey-color: #282828;
+
+@function set-text-color($color) {
+  @if (lightness($color) > 50) {
+    @return #000;
+  } @else {
+    @return #fff;
+  }
+}
