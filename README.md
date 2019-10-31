@@ -1,6 +1,6 @@
 # HTML-CSS-Practice Site - Finance Company
 
-Seeing if I can recreate a template from a site to practice html and css
+The goal of this project is to practice HTML and CSS. Straight forward right? It also has some SASS in it.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ I recently have been looking up HTML and CSS to learn how to create and style we
 
 ## Deployment
 
-Deployed at Neflify at (Link to come)
+Deployed at [Neflify](https://youthful-knuth-60fdf3.netlify.com)
 
 ## Built With
 
