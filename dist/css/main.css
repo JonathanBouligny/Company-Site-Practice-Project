@@ -1,46 +1,126 @@
 .container {
   max-width: 1090px;
-  margin: 0 auto; }
+  margin: 0 auto;
+}
 
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box; }
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  line-height: 1.5;
+}
 
 body {
   font-family: "Roboto", sans-serif;
   background: #0c0032;
-  color: #fff; }
+  color: #fff;
+}
 
 ul li {
-  text-decoration: none; }
+  text-decoration: none;
+}
 
 ul {
-  list-style: none; }
+  list-style: none;
+}
 
 .main-nav {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #3500d3;
-  padding: 0.5rem; }
-  .main-nav-logo {
-    display: flex;
-    align-items: center; }
-  .main-nav-links {
-    display: flex; }
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: #240090;
+  padding: 0.5rem;
+}
+
+.main-nav-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main-nav-links {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 
 .btn {
   text-decoration: none;
-  padding: 0.5rem 0.75rem; }
-  .btn-light {
-    background-color: #3500d3;
-    color: #fff; }
-    .btn-light:hover {
-      background-color: #5821ff; }
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+}
 
-#main-content {
-  position: relative; }
-  #main-content .main-content-img {
-    width: 100vw;
-    height: 100vh; }
+.btn-light {
+  background-color: #240090;
+  color: #fff;
+}
+
+.btn-light:hover {
+  background-color: #3700dd;
+}
+
+.current {
+  background-color: #3700dd;
+}
+
+#showcase {
+  background: #333 url("/dist/img/building.jpg") no-repeat center center/cover;
+  height: 100vh;
+  color: #fff;
+}
+
+#showcase .showcase-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100%;
+  padding: 0 2rem;
+  /* Overlay */
+  position: absolute;
+  top: 64px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+#showcase .showcase-content h2 {
+  margin-bottom: 0.5rem;
+}
+
+#our-focuses {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#our-focuses .focus {
+  padding: 1rem 5rem;
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
