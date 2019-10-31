@@ -78,7 +78,7 @@ ul {
 }
 
 #showcase {
-  background: #333 url("/dist/img/building.jpg") no-repeat center center/cover;
+  background: #333 url("../img/building.jpg") no-repeat center center/cover;
   height: 100vh;
   color: #fff;
 }
