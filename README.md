@@ -3,6 +3,7 @@
 Seeing if I can recreate a template from a site to practice html and css
 
 ## Getting Started
+
 I recently have been looking up HTML and CSS to learn how to create and style websites. I didn't research any design or try to create my own, I just wanted to focus on front end development part. For this project I learned HTML,CSS,Sass, and deployed using Netlify.
 
 ## Deployment
@@ -11,15 +12,19 @@ Deployed at Neflify at (Link to come)
 
 ## Built With
 
-* HTML
-* CSS
-* Nodejs
-* Sass
+- HTML
+- CSS
+- Nodejs
+- Sass
 
 ## Authors
 
-* **Jonathan Bouligny** - [Jonathan Bouligny](https://github.com/JonathanBouligny)
+- **Jonathan Bouligny** - [Jonathan Bouligny](https://github.com/JonathanBouligny)
 
 ## Acknowledgments
 
-* Recreated from this template from [themeforest.net](https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434)
+- Pages used for inspiration : [themeforest.net](https://preview.themeforest.net/item/financity-business-financial-wordpress-theme/full_screen_preview/20757434)
+  [bull](https://atos.net/en/products?utm_source=bull.com/&utm_medium=301)
+  [ball](https://www.ball.com/na)
+  [fmc](http://www.fmc.com/)
+  [3m](https://www.3m.com/)
