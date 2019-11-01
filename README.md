@@ -24,7 +24,7 @@ Deployed [here](https://youthful-knuth-60fdf3.netlify.com) with Netlify
   - Live Server
   - Watch Sass
 
-## Authors
+## Author
 
 - **Jonathan Bouligny** - [Jonathan Bouligny](https://github.com/JonathanBouligny)
 
