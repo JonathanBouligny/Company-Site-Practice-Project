@@ -21,7 +21,7 @@ Deployed at [Neflify](https://youthful-knuth-60fdf3.netlify.com)
 
 - Visual Studio
   ### with
-  - Live Studio
+  - Live Server
   - Watch Sass
 
 ## Authors
