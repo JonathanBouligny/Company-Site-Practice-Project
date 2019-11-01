@@ -1,4 +1,4 @@
-# HTML-CSS-Practice Site - Finance Company
+# HTML-CSS-Practice Site - Company Site
 
 The goal of this project is to practice HTML and CSS. Straight forward right? It also has some SASS in it.
 
