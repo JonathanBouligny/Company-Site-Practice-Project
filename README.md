@@ -17,6 +17,13 @@ Deployed at [Neflify](https://youthful-knuth-60fdf3.netlify.com)
 - Nodejs
 - Sass
 
+## Built On
+
+- Visual Studio
+  ### with
+  - Live Studio
+  - Watch Sass
+
 ## Authors
 
 - **Jonathan Bouligny** - [Jonathan Bouligny](https://github.com/JonathanBouligny)
