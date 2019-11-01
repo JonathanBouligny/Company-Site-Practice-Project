@@ -1,6 +1,6 @@
 # HTML-CSS-Practice Site - Company Site
 
-The goal of this project is to practice HTML and CSS. It is my final project after doing a course on Udemy from Traversey Media
+The goal of this project is to practice HTML and CSS. It is my final project after doing Modern HTML & CSS From The Beginning (Including Sass) on Udemy from Traversey Media.
 
 ## Getting Started
 
