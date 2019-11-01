@@ -1,14 +1,14 @@
 # HTML-CSS-Practice Site - Company Site
 
-The goal of this project is to practice HTML and CSS. Straight forward right? It also has some SASS in it.
+The goal of this project is to practice HTML and CSS. It is my final project after doing a course on Udemy from Traversey Media
 
 ## Getting Started
 
-I recently have been looking up HTML and CSS to learn how to create and style websites. I didn't research any design or try to create my own, I just wanted to focus on front end development part. For this project I learned HTML,CSS,Sass, and deployed using Netlify.
+I recently have been looking up HTML and CSS to learn how to create and style websites. I wanted to practice front end development. For this project I learned HTML,CSS,Sass, and deployed using Netlify.
 
 ## Deployment
 
-Deployed at [Neflify](https://youthful-knuth-60fdf3.netlify.com)
+Deployed [here](https://youthful-knuth-60fdf3.netlify.com) with Netlify
 
 ## Built With
 
